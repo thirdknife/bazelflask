@@ -16,7 +16,7 @@ A Simple Flask app that uses devconatiner and bazel to build and run
 
 2. Reopen in devcontainer.
 
-3. Flask application should be built upon container being ready. After its ready run the following command and it shoudl start the application.
+3. Flask application should be built upon container being ready. After its ready run the following command and it should start the application asking you to open in browser if port was forwarded correctly.
    ```bash
    make run
    ``` 
